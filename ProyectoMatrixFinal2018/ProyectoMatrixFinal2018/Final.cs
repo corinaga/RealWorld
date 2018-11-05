@@ -24,8 +24,9 @@ namespace ProyectoMatrixFinal2018
             InitializeComponent();
             this.CenterToScreen();
             String cancion = Directory.GetParent(Directory.GetParent(Application.StartupPath).ToString()).ToString() + "\\principal\\corazon.mp3";
-            
 
+            //para poner canciones en bucle
+            axWindowsMediaPlayer1.settings.setMode("Loop", true);
             this.axWindowsMediaPlayer1.URL = cancion;
 
             }

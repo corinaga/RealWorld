@@ -23,7 +23,8 @@ namespace ProyectoMatrixFinal2018
             pbFondo.ImageLocation = "..\\..\\principal\\fondo.gif";
             this.CenterToScreen();
             String cancion = Directory.GetParent(Directory.GetParent(Application.StartupPath).ToString()).ToString() +"\\principal\\musica.mp3";
-            
+            //para poner canciones en bucle
+            awp1.settings.setMode("Loop", true);
             awp1.URL = cancion;
 
 
