@@ -34,3 +34,9 @@ C:\Users\Fj Margotón\Documents\Visual Studio 2015\Projects\RealWorldGUI\Proyect
 C:\Users\Fj Margotón\Documents\Visual Studio 2015\Projects\RealWorldGUI\ProyectoMatrixFinal2018\ProyectoMatrixFinal2018\obj\Debug\ProyectoMatrixFinal2018.Principal.resources
 C:\Users\Fj Margotón\Documents\Visual Studio 2015\Projects\RealWorldGUI\ProyectoMatrixFinal2018\ProyectoMatrixFinal2018\obj\Debug\ProyectoMatrixFinal2018.Properties.Resources.resources
 C:\Users\Fj Margotón\Documents\Visual Studio 2015\Projects\RealWorldGUI\ProyectoMatrixFinal2018\ProyectoMatrixFinal2018\obj\Debug\ProyectoMatrixFinal2018.csproj.GenerateResource.Cache
+C:\visual studio 2015\Projects\RealWorld2\ProyectoMatrixFinal2018\ProyectoMatrixFinal2018\bin\Debug\ProyectoMatrixFinal2018.exe.config
+C:\visual studio 2015\Projects\RealWorld2\ProyectoMatrixFinal2018\ProyectoMatrixFinal2018\obj\Debug\Interop.WMPLib.dll
+C:\visual studio 2015\Projects\RealWorld2\ProyectoMatrixFinal2018\ProyectoMatrixFinal2018\obj\Debug\AxInterop.WMPLib.dll
+C:\visual studio 2015\Projects\RealWorld2\ProyectoMatrixFinal2018\ProyectoMatrixFinal2018\obj\Debug\ProyectoMatrixFinal2018.csproj.ResolveComReference.cache
+C:\visual studio 2015\Projects\RealWorld2\ProyectoMatrixFinal2018\ProyectoMatrixFinal2018\obj\Debug\ProyectoMatrixFinal2018.exe
+C:\visual studio 2015\Projects\RealWorld2\ProyectoMatrixFinal2018\ProyectoMatrixFinal2018\obj\Debug\ProyectoMatrixFinal2018.pdb
